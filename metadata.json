@@ -1,0 +1,6 @@
+{
+  "name": "SawitX by MDABasuki",
+  "description": "Sistem Monitoring Operasional Perkebunan Kelapa Sawit Terintegrasi & Monitoring Progres Temuan Lapangan dengan GPS, Dokumentasi Foto Watermark, Verifikasi & Tanda Tangan Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
